@@ -1,0 +1,21 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Purmerend",
+			"country": {
+				"code": "NL",
+				"name": "The Netherlands"
+			},
+			"subdivision": {
+				"code": "NH",
+				"name": "North Holland"
+			},
+			"timezone": "Europe/Amsterdam",
+			"latitude": 52.4989,
+			"longitude": 4.9387
+		},
+		"timestamp": 1704478473236
+	},
+	"siteId": "7ea9d700-a315-471b-b90c-d0b5e7d81164"
+}
